@@ -1,3 +1,6 @@
+
+# We read these values from external yaml file
+
 EMAIL_PROVIDERS = {
     'MAIL_GUN': {
         'api_key':
