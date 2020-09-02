@@ -1,3 +1,7 @@
+# We read these values from some external file in production
+
+
+
 broker_url = 'amqp://'
 result_backend = 'rpc://'
 
