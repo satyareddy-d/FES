@@ -31,10 +31,3 @@ def raise_http_error(res):
         raise SizeExceeds("Attachment size is too big")
 
 
-
-
-payload = {
-    'subject': "some subject",
-    'email_body': "some html string",
-    'to_addresses': ['abc@gmail.com']
-}
