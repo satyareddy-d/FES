@@ -1,8 +1,13 @@
 # FES
  Fastest Email Service
+ 
+# Architecture Diagram
 
 
-# --------------------------------------------------------------------------------------------------------
+![Alt text](https://github.com/satyareddy-d/FES/blob/master/FES_Architecture.PNG?raw=true "Diagram")
+
+
+# --------------------------------------------------------
 
 #  The Techstack to build fastest email service
 # Language:
