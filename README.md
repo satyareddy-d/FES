@@ -6,6 +6,14 @@
 
 ![Alt text](https://github.com/satyareddy-d/FES/blob/master/FES_Architecture.PNG?raw=true "Diagram")
 
+---------------------------------------------------------
+
+# Pending Work:
+ 1) CI/CD pipline through jenkins
+ 2) Dockerfile
+ 3) supervisorconfig file to run celery application
+ 4) unittests
+ 
 
 # --------------------------------------------------------
 
