@@ -6,6 +6,13 @@
 
 ![Alt text](https://github.com/satyareddy-d/FES/blob/master/FES_Architecture.PNG?raw=true "Diagram")
 
+
+message --> {
+    'subject': "some subject",
+    'email_body': "some html string",
+    'to_addresses': ['abc@gmail.com']
+}
+
 ---------------------------------------------------------
 
 # Pending Work:
