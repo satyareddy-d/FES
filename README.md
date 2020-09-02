@@ -41,4 +41,7 @@ message --> {
   ---> client applications will put the messages into rabbitmq queue 'fes' , then rest of the things takes care by FES(sending emails to recipients)
 # How do you put the message into 'fes' queue to send notification emails?
   ---> we use rabbitMQ vhost ULR to push the message into queue by using pika module in python
+  
+# Open Questions
+1) should we use celery eventlet pool insteaded of prefork process as we have to only simple I/O network call?
  
